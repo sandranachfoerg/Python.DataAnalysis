@@ -1,9 +1,6 @@
-# data_analysis
+# Call Data Analysis
 
-#first step: Import the libraries you need. In this case we use pandas and seaborn (
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+This analysis contains real-life data but was modified to protect the information of customers/students.
 
-data= pd.read_csv(""Data_Analyis_CallCenter.csv")
+
 
